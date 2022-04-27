@@ -1,2 +1,0 @@
-module com.learningsimplified.algorithmsinjava {
-}
