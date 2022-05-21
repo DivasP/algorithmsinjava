@@ -1,6 +1,7 @@
 package com.learningsimplified;
 
 
+import com.learningsimplified.algorithmsinjava.common.CommonAlgorithms;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

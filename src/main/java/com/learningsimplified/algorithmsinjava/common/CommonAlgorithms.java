@@ -1,4 +1,4 @@
-package com.learningsimplified;
+package com.learningsimplified.algorithmsinjava.common;
 
 import java.util.ArrayList;
 import java.util.List;
